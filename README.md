@@ -26,7 +26,7 @@
   <h2>About Me</h2>
 <p>I am a Data Scientist and Machine Learning engineer. I graduated with a Master's degree in Computer Science in May, 2022. I had a few internships at NASA and then a contract position as a Data Science Engineer. I love learning and overcoming challenges.</p> 
  </div>
-
+<!-- 
 <div id="badges">
   <h2>My Toolbelt</h2>
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/cc1ba782-831a-4b35-8452-bf80b4d5f958" width="50" height="50">
@@ -41,7 +41,7 @@
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/c4d57977-2c51-4de0-a6d3-e37dba216f7f" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/bebee0fc-59dc-47c8-8f2b-84e65b2ae0f5" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/6c9ad51e-0cfe-4320-b90e-84445ea3b4c6" width="50" height="50">
- </div> 
+ </div>  -->
   
  
 <!--
