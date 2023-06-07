@@ -8,6 +8,7 @@ I am a Data Scientist and Machine Learning engineer. I graduated with a Master's
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/1e12101d-880f-4f6c-8d7b-9e97182bafbb" width="50 height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/c8d36814-25b8-4bbf-b350-8550ca33befa" width="50 height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/ac38becf-0f39-4783-9a35-8fc85e42aa3a" width="60" height="50">
+<img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/e568851d-88ee-47f8-86b3-98550723e5d9" width="60" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/76bef0a6-8cdb-4c66-a012-3c8d5c131cae" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/8b999f94-20c6-4d27-accd-3d64d270ba0c" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/530a709d-6a64-47e4-b125-c71275eb7778" width="50" height="50">
