@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### I'm Laura
+
+I am a Data Scientist and Machine Learning engineer. 
 
 <!--
 **lauxpaux/lauxpaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
