@@ -3,7 +3,7 @@
 I am a Data Scientist and Machine Learning engineer. I graduated with a Master's degree in Computer Science in May, 2022. I had a few internships at NASA and then a contract position as a Data Science Engineer. I love learning and overcoming challenges. 
 
 
-<img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/cc1ba782-831a-4b35-8452-bf80b4d5f958" width="50" height="50" "#3776AB">
+<img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/cc1ba782-831a-4b35-8452-bf80b4d5f958" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/1be8dc20-2e71-4702-8a39-eb0954ebc397" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/1e12101d-880f-4f6c-8d7b-9e97182bafbb" width="50 height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/c8d36814-25b8-4bbf-b350-8550ca33befa" width="50 height="50">
