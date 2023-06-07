@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LujfegRWzJn3y/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
 I am a Data Scientist and Machine Learning engineer. I graduated with a Master's degree in Computer Science in May, 2022. I had a few internships at NASA and then a contract position as a Data Science Engineer. I love learning and overcoming challenges. 
