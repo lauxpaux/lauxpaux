@@ -1,12 +1,34 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/LujfegRWzJn3y/giphy.gif" width="300"/>
+  <h1>Hi there 👋</h1>
+</div> -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cfF1c9rnGV8cBJIsjp/giphy.gif" width="250"/>
+  <h1>Hi there 👋</h1>
 </div>
 
-### Hi there 👋
 
-I am a Data Scientist and Machine Learning engineer. I graduated with a Master's degree in Computer Science in May, 2022. I had a few internships at NASA and then a contract position as a Data Science Engineer. I love learning and overcoming challenges. 
+<div id="contact" align="center">
+  <a href="https://www.linkedin.com/in/laura-cornejo-paulino/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="laurapaulino925@gmail.com">
+    <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/185019a0-684c-4eea-8c17-6f220fa2dea6" alt="Gmail Badge"/>
+  </a> -->
+
+</div>
 
 
+
+<!-- ### Hi there 👋 -->
+<div id="bio">
+  <h2>About Me</h2>
+<p>I am a Data Scientist and Machine Learning engineer. I graduated with a Master's degree in Computer Science in May, 2022. I had a few internships at NASA and then a contract position as a Data Science Engineer. I love learning and overcoming challenges.</p> 
+ </div>
+
+<div id="badges">
+  <h2>My Toolbelt</h2>
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/cc1ba782-831a-4b35-8452-bf80b4d5f958" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/1be8dc20-2e71-4702-8a39-eb0954ebc397" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/1e12101d-880f-4f6c-8d7b-9e97182bafbb" width="50 height="50">
@@ -19,7 +41,9 @@ I am a Data Scientist and Machine Learning engineer. I graduated with a Master's
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/c4d57977-2c51-4de0-a6d3-e37dba216f7f" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/bebee0fc-59dc-47c8-8f2b-84e65b2ae0f5" width="50" height="50">
 <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/6c9ad51e-0cfe-4320-b90e-84445ea3b4c6" width="50" height="50">
-
+ </div> 
+  
+ 
 <!--
 **lauxpaux/lauxpaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
