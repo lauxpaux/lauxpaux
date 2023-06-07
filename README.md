@@ -24,7 +24,10 @@
 <!-- ### Hi there 👋 -->
 <div id="bio">
   <h2>About Me</h2>
-<p>I am a Data Scientist and Machine Learning engineer. I graduated with a Master's degree in Computer Science in May, 2022. I had a few internships at NASA and then a contract position as a Data Science Engineer. I love learning and overcoming challenges.</p> 
+  <p>With a strong foundation in data science and machine learning, I bring over 2 years of experience driving high-leverage projects that have made a tangible impact. During my tenure at NASA, I had the privilege of supporting critical research projects by applying advanced data analysis techniques and statistical modeling. This invaluable experience equipped me with a deep understanding of complex datasets and the ability to extract valuable insights that inform strategic decision-making.
+
+As a passionate advocate for machine learning, I have cultivated a robust portfolio and publication list that reflects my expertise in AI and machine learning. Through rigorous research efforts, I have successfully implemented machine learning algorithms to solve complex problems and optimize processes. By staying at the forefront of emerging trends, I have contributed to advancements in the field and remain committed to driving innovation through the application of cutting-edge technologies.</p>
+
  </div>
 <!-- 
 <div id="badges">
