@@ -27,7 +27,7 @@
 As a passionate advocate for machine learning, I have cultivated a robust portfolio and publication list that reflects my expertise in AI and machine learning. Through rigorous research efforts, I have successfully implemented machine learning algorithms to solve complex problems and optimize processes. By staying at the forefront of emerging trends, I have contributed to advancements in the field and remain committed to driving innovation through the application of cutting-edge technologies.</p>
  </div>
  
-### :hammer_and_wrench: Languages and Tools
+### Languages and Tools
 <div id="badges">
 <!--   ###:hammer_and_wrench: Languages and Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title='python' width="40" height="40">&nbsp;
