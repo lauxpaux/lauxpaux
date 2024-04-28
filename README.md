@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cfF1c9rnGV8cBJIsjp/giphy.gif" width="250"/>
-  <h1>Hi there 👋</h1>
-</div>
 
 
 <div id="contact" align="center">
