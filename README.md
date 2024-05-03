@@ -1,6 +1,6 @@
 ## Hi there,
 
-### I'm currently making updates to my profile/projects.
+### I'm currently making updates to my profile/projects... 
 
 ### About Me ###
 <div id="bio">
